@@ -2,7 +2,7 @@ package Competition2021;
 
 
 import java.io.*;
-import java.util.ArrayList;
+//import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
@@ -13,14 +13,14 @@ public class B{
     static Scanner input = null;
     static FileWriter output = null;
 
-    static String all[] = null;
+    static String[] all = null;
     static int T = 0;
     static int N = 0;
     static int K = 0;
-    static int array[];
+    static int[] array;
     static int num = 1;
 
-    public static void main (String args[]) throws IOException{
+    public static void main (String[] args) throws IOException{
 
 
         read("src/Competition2021/BInput/A.in");
@@ -76,7 +76,7 @@ public class B{
 
         HashMap<Integer, Integer> change = new HashMap<>(N);
 
-        int arr1[] = new int[N];
+        int[] arr1 = new int[N];
         for (int i = 0; i < N; i++){
             arr1[i] = i;
             change.put(i, i);

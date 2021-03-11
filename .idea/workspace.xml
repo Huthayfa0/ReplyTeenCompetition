@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d6bbe1c-f935-481e-9624-f7a37cd64c32" name="Default Changelist" comment="A">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competition2021/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competition2021/BInput/A.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competition2021/Boutput/A.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competition2021/D.java" afterDir="false" />
+    <list default="true" id="4d6bbe1c-f935-481e-9624-f7a37cd64c32" name="Default Changelist" comment="D">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Competition2021/B.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Competition2021/D.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competition2021/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competition2021/B.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615468497782</updated>
-      <workItem from="1615468499558" duration="16264000" />
+      <workItem from="1615468499558" duration="17449000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1615469179771</created>
@@ -156,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615485174517</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="D">
+      <created>1615491440713</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615491440713</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +168,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="Second" />
     <MESSAGE value="A" />
-    <option name="LAST_COMMIT_MESSAGE" value="A" />
+    <MESSAGE value="D" />
+    <option name="LAST_COMMIT_MESSAGE" value="D" />
   </component>
   <component name="WindowStateProjectService">
     <state x="433" y="188" width="490" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615478819889">
@@ -190,22 +192,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="426" y="91" width="503" height="577" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1615468623270" />
-    <state width="1324" height="187" key="GridCell.Tab.0.bottom" timestamp="1615490204176">
+    <state width="1324" height="187" key="GridCell.Tab.0.bottom" timestamp="1615492596347">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1615490204176" />
-    <state width="1324" height="187" key="GridCell.Tab.0.center" timestamp="1615490204175">
+    <state width="1324" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1615492596347" />
+    <state width="1324" height="187" key="GridCell.Tab.0.center" timestamp="1615492596345">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1615490204175" />
-    <state width="1324" height="187" key="GridCell.Tab.0.left" timestamp="1615490204174">
+    <state width="1324" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1615492596345" />
+    <state width="1324" height="187" key="GridCell.Tab.0.left" timestamp="1615492596343">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1615490204174" />
-    <state width="1324" height="187" key="GridCell.Tab.0.right" timestamp="1615490204175">
+    <state width="1324" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1615492596343" />
+    <state width="1324" height="187" key="GridCell.Tab.0.right" timestamp="1615492596346">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1615490204175" />
+    <state width="1324" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1615492596346" />
     <state width="1324" height="233" key="GridCell.Tab.1.bottom" timestamp="1615482136824">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -226,24 +228,13 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="187" y="18" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1615469619459" />
-    <state x="278" y="119" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1615485176848">
+    <state x="278" y="119" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1615491443441">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="278" y="119" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1615485176848" />
+    <state x="278" y="119" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1615491443441" />
     <state x="457" y="200" width="442" height="359" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1615485451885">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="457" y="200" width="442" height="359" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768@0.0.1366.768" timestamp="1615485451885" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Competition2021/A.kt</url>
-          <line>14</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
