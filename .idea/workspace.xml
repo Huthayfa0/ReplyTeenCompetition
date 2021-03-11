@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d6bbe1c-f935-481e-9624-f7a37cd64c32" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/Competition2021/AInput/a.in" afterDir="false" />
+    <list default="true" id="4d6bbe1c-f935-481e-9624-f7a37cd64c32" name="Default Changelist" comment="Second">
+      <change afterPath="$PROJECT_DIR$/src/Competition2021/AInput/A.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Competition2021/Aoutput/A.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competition2021/A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competition2021/A.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competition2021/AInput/a.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competition2021/B.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competition2021/B.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competition2021/D.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competition2021/D.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +33,20 @@
     </option>
   </component>
   <component name="ProjectId" id="1pc3LOwWneifpLhR2h5pvxOkXSR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Competition2021" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HashCode" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,7 +60,7 @@
       <recent name="$PROJECT_DIR$/src/Competition2021" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.AKt">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -76,9 +85,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ReplyTeenCompetition" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Competition2021.BKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.AKt" />
+        <item itemvalue="Kotlin.BKt" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615468497782</updated>
-      <workItem from="1615468499558" duration="1813000" />
+      <workItem from="1615468499558" duration="10529000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1615469179771</created>
@@ -102,17 +125,34 @@
       <option name="project" value="LOCAL" />
       <updated>1615469179771</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second">
+      <created>1615470556466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615470556466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Second" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="433" y="188" width="490" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615478819889">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="433" y="188" width="490" height="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1615478819889" />
+    <state x="466" y="141" width="424" height="478" key="FileChooserDialogImpl" timestamp="1615472964452">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="466" y="141" width="424" height="478" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1615472964452" />
     <state x="516" y="283" key="Github.ShareDialog" timestamp="1615468613913">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -121,13 +161,56 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="426" y="91" width="503" height="577" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1615468623270" />
+    <state width="1324" height="187" key="GridCell.Tab.0.bottom" timestamp="1615482698671">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1615482698671" />
+    <state width="1324" height="187" key="GridCell.Tab.0.center" timestamp="1615482698670">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1615482698670" />
+    <state width="1324" height="187" key="GridCell.Tab.0.left" timestamp="1615482698670">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1615482698670" />
+    <state width="1324" height="187" key="GridCell.Tab.0.right" timestamp="1615482698671">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1615482698671" />
+    <state width="1324" height="233" key="GridCell.Tab.1.bottom" timestamp="1615482136824">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="233" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1615482136824" />
+    <state width="1324" height="233" key="GridCell.Tab.1.center" timestamp="1615482136823">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="233" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1615482136823" />
+    <state width="1324" height="233" key="GridCell.Tab.1.left" timestamp="1615482136823">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="233" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1615482136823" />
+    <state width="1324" height="233" key="GridCell.Tab.1.right" timestamp="1615482136824">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="233" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1615482136824" />
     <state x="187" y="18" key="SettingsEditor" timestamp="1615469619459">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="187" y="18" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1615469619459" />
-    <state x="278" y="119" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1615469431012">
+    <state x="278" y="119" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1615470565471">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="278" y="119" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1615469431012" />
+    <state x="278" y="119" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1615470565471" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Competition2021/A.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
