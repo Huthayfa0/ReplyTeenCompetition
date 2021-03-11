@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d6bbe1c-f935-481e-9624-f7a37cd64c32" name="Default Changelist" comment="Second">
-      <change afterPath="$PROJECT_DIR$/src/Competition2021/AInput/A.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competition2021/Aoutput/A.txt" afterDir="false" />
+    <list default="true" id="4d6bbe1c-f935-481e-9624-f7a37cd64c32" name="Default Changelist" comment="A">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Competition2021/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Competition2021/BInput/A.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Competition2021/Boutput/A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Competition2021/D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Competition2021/A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competition2021/A.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Competition2021/AInput/a.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Competition2021/B.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competition2021/B.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Competition2021/D.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competition2021/D.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competition2021/B.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competition2021/D.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,7 +48,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HashCode" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Competition2021" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,7 +63,20 @@
       <recent name="$PROJECT_DIR$/src/Competition2021" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.AKt">
+  <component name="RunManager" selected="Application.B">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Competition2021.B" />
+      <module name="ReplyTeenCompetition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Competition2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -100,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B" />
         <item itemvalue="Kotlin.AKt" />
         <item itemvalue="Kotlin.BKt" />
       </list>
@@ -116,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615468497782</updated>
-      <workItem from="1615468499558" duration="10529000" />
+      <workItem from="1615468499558" duration="16264000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1615469179771</created>
@@ -132,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615470556466</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="A">
+      <created>1615485174517</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615485174517</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,13 +166,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <MESSAGE value="Second" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second" />
+    <MESSAGE value="A" />
+    <option name="LAST_COMMIT_MESSAGE" value="A" />
   </component>
   <component name="WindowStateProjectService">
     <state x="433" y="188" width="490" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615478819889">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="433" y="188" width="490" height="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1615478819889" />
+    <state x="491" y="102" width="374" height="556" key="#com.intellij.ide.util.MemberChooser" timestamp="1615485599532">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="491" y="102" width="374" height="556" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1615485599532" />
     <state x="466" y="141" width="424" height="478" key="FileChooserDialogImpl" timestamp="1615472964452">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -161,22 +190,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="426" y="91" width="503" height="577" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1615468623270" />
-    <state width="1324" height="187" key="GridCell.Tab.0.bottom" timestamp="1615482698671">
+    <state width="1324" height="187" key="GridCell.Tab.0.bottom" timestamp="1615490204176">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1615482698671" />
-    <state width="1324" height="187" key="GridCell.Tab.0.center" timestamp="1615482698670">
+    <state width="1324" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1615490204176" />
+    <state width="1324" height="187" key="GridCell.Tab.0.center" timestamp="1615490204175">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1615482698670" />
-    <state width="1324" height="187" key="GridCell.Tab.0.left" timestamp="1615482698670">
+    <state width="1324" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1615490204175" />
+    <state width="1324" height="187" key="GridCell.Tab.0.left" timestamp="1615490204174">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1615482698670" />
-    <state width="1324" height="187" key="GridCell.Tab.0.right" timestamp="1615482698671">
+    <state width="1324" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1615490204174" />
+    <state width="1324" height="187" key="GridCell.Tab.0.right" timestamp="1615490204175">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1615482698671" />
+    <state width="1324" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1615490204175" />
     <state width="1324" height="233" key="GridCell.Tab.1.bottom" timestamp="1615482136824">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -197,10 +226,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="187" y="18" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1615469619459" />
-    <state x="278" y="119" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1615470565471">
+    <state x="278" y="119" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1615485176848">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="278" y="119" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1615470565471" />
+    <state x="278" y="119" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1615485176848" />
+    <state x="457" y="200" width="442" height="359" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1615485451885">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="457" y="200" width="442" height="359" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.768@0.0.1366.768" timestamp="1615485451885" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
